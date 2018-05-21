@@ -1,0 +1,58 @@
+:root{
+    --background: #fff;
+    --text: black;
+    --link: green;
+    --accent-gray: #767676
+}
+body {
+margin: 0px;
+padding: 0px 2em;
+text-align: left;
+}
+
+h1 {
+    color: #000000;
+    font-family: "arial",sans-serif;
+	font-style: normal;
+	font-weight: 200;
+    font-size: 4.5em;
+    margin: 25px 0px 25px 0px;
+    text-align: left;
+}
+
+p {
+	color: black;
+	font-family: "arial",sans-serif;
+	font-style: normal;
+	font-weight: 200;
+	font-size: 2em;
+	margin: 0px 0px 25px 0px;
+	text-align: left;
+}
+
+.p, a:link {
+	color: black;
+	font-style: underline
+}
+
+.p, a:hover {
+	color: green;
+	font-style: underline
+}
+
+.icon {
+width: 32px;
+height: 32px;
+padding-right:5px;
+border:0px;
+}
+#container {
+margin:0px auto;
+width: 430px;
+height: 190px;
+text-align: center;
+position: fixed; bottom: 0;
+
+}
+.typekit-badge {display: none !important;}
+
