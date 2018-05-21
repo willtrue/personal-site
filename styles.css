@@ -16,7 +16,7 @@ h1 {
 	font-style: normal;
 	font-weight: 200;
     font-size: 4.5em;
-    margin: 25px 0px 25px 0px;
+    margin: 35px 0px 35px 0px;
     text-align: left;
 }
 
@@ -42,18 +42,14 @@ p {
 }
 
 .icon {
-width: 32px;
-height: 32px;
-padding-right:5px;
+width: 40px;
+height: 40px;
+padding-right:10px;
+padding-top: 10px;
 border:0px;
 }
-#container {
-margin:0px auto;
-width: 430px;
-height: 190px;
-text-align: center;
-position: fixed; bottom: 0;
 
+.icons {
+	text-align: center;
 }
-.typekit-badge {display: none !important;}
 
