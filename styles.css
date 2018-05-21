@@ -6,7 +6,7 @@
 }
 body {
 margin: 0px;
-padding: 0px 2em;
+padding: 0px 4em;
 text-align: left;
 }
 
@@ -44,13 +44,10 @@ p {
 .icon {
 width: 40px;
 height: 40px;
-padding-right:10px;
-padding-top: 10px;
-padding-bottom: 2em;
-border:0px;
+padding: 10px;
 }
 
-.icons {
-	text-align: center;
+#icons {
+	margin-left: -10px;
 }
 
