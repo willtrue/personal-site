@@ -1,2 +1,2 @@
 # willtrue.com
-personal site
+personal website, to share bio and contact information.
