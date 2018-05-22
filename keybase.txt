@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/willtrue
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.willtrue.com
+  * I am willtrue (https://keybase.io/willtrue) on keybase.
+  * I have a public key ASCG2gQR3Du3EAgehI4vKyzBsp4ZAFwsND5Xd31haUg8-Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101df6da37957de6cab2da7089289a9542f4d94ae0e10bd000595d5f7ecafe049fc0a",
+      "host": "keybase.io",
+      "kid": "012086da0411dc3bb710081e848e2f2b2cc1b29e19005c2c343e57777d6169483cf90a",
+      "uid": "8c6c47bea6884cd3e3d585adec988100",
+      "username": "willtrue"
+    },
+    "merkle_root": {
+      "ctime": 1526952220,
+      "hash": "8038fcef20052d813611bc183c5de2d8c827e9aed973f6b9162562043fe9a449907c64e843a889205d877154ed0474b44698814339145a9a10982125dc2e0431",
+      "hash_meta": "0103e5bf536239a7b8a24642dabb79ddf341b448850ddb2108cf10e0df3b78ec",
+      "seqno": 2859661
+    },
+    "service": {
+      "entropy": "hnoECPaJRqpn27IzxdP3Prtz",
+      "hostname": "www.willtrue.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.48"
+  },
+  "ctime": 1526952230,
+  "expire_in": 504576000,
+  "prev": "128cc3b47ac3851ddcb70cded50f9f0f12d34629d299e3024ae6455799d7da84",
+  "seqno": 17,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEghtoEEdw7txAIHoSOLysswbKeGQBcLDQ+V3d9YWlIPPkKp3BheWxvYWTESpcCEcQgEozDtHrDhR3ctwze1Q+fDxLTRinSmeMCSuZFV5nX2oTEIIHD807lubBDgMQDoXeqzTVlO6+eBsbsKGqkUO8p8a3VAgHCo3NpZ8RAUQQoZK3ZvIliICzNkffyQFcjuxWi3czSVZhwR72lJnV6s9U0ucvZv4+EVtVCLNvTOwbthKnW8K5Mf/CGJik8D6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICnuWIlpyv4vilgNGj004J40C920rEd7ZzPJaPhq5Qouo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/willtrue
+
+==================================================================
